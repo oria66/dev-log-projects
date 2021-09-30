@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainMap.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Line.qml</file>
+        <file>Marker.qml</file>
+        <file>componentCreation.js</file>
+    </qresource>
+</RCC>
